@@ -36,3 +36,13 @@ img{
 h1,h2,h3,h4,h5,h6,p,a{
     color: var(--color-gray);
 }
+
+
+/* ================= GLOBAL CLASSES START =================*/
+.bg-css-center{
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+/* ================= GLOBAL CLASSES END =================*/
